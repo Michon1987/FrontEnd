@@ -1,0 +1,9 @@
+head {
+    position: absolute;
+    width: 1024px;
+    height: 20px;
+    left: calc(50% - 1024px/2);
+    top: 0px;
+    background: #222222;
+    
+}

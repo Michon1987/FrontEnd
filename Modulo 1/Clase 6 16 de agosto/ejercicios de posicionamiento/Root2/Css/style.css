@@ -1,0 +1,15 @@
+.contenedor {
+    position: absolute;
+}
+
+.gorrito {
+    position: relative;
+    width: 120px;
+    left: 195px;
+
+}
+
+.gato {
+    position: absolute;
+    top:10px;
+}

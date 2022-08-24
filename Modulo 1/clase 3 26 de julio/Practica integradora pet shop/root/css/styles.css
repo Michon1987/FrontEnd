@@ -1,0 +1,228 @@
+#Rectangle {
+    position: absolute;
+    width: 1024px;
+    height: 20px;
+    top: 0px;
+    left: 5px;
+}
+#Titulo {
+    position:absolute;
+    width: 138px;
+    height: 12px;
+    top: 4px;
+    left: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #F3F3F3;
+}
+
+#Español {
+    position: absolute;
+    width: 36px;
+    height: 12px;
+    top: 4px;
+    left: 900px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #fdfcfc;
+}
+
+#ARG {
+    position: absolute;
+    width: 26px;
+    height: 12px;
+    top: 4px;
+    left: 970px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #fefefe;
+ }
+
+ #Fondo {
+    position: absolute;
+    width: 1025px;
+    height: 409px;
+    top: 81px;
+    left: 5px;
+}
+
+#Rectangle3 {
+    position: absolute;
+    width: 1024px;
+    height: 62px;
+    top: 20px;
+    left: 5px;
+    background: #F0A83E;
+}
+
+#Front {
+    position: absolute;
+    width: 57.21px;
+    height: 23px;
+    top: 39px;
+    left: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #3C2313;
+}
+
+#CatyDog {
+    position: absolute;
+    width: 96.35px;
+    height: 23px;
+    top: 39px;
+    left: 90px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+#Categorias {
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    top: 44px;
+    left: 650px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+#Pets {
+    position: absolute;
+    width: 27px;
+    height: 14px;
+    top: 44px;
+    left: 750px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+#Nosotros {
+    position: absolute;
+    width: 54px;
+    height: 15px;
+    top: 43px;
+    left: 850px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+#Contactanos {
+    position: absolute;
+    width: 74px;
+    height: 14px;
+    top: 44px;
+    left: 950px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+#Cordial {
+    position: absolute;
+    width: 345px;
+    height: 35px;
+    left: 658px;
+    top: 246px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #3C2313;
+}
+#Rectangle5 {
+    position: absolute;
+    width: 365px;
+    height: 54px;
+    left: 648px;
+    top: 237px;
+    background: #FFFFFF;
+    border-radius: 5px;
+
+   
+}
+
+#Empezar {
+    position: absolute;
+    width: 190px;
+    height: 19px;
+    left: 740px;
+    top: 303px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #3C2313;
+}
+
+#Rectangle6 {
+    position: absolute;
+    width: 141px;
+    height: 49px;
+    left: 767px;
+    top: 334px;
+    background: #F0A83E;
+    border-radius: 5px;
+}
+
+#Comedero {
+    position: absolute;
+    width: 95px;
+    height: 19px;
+    left: 790px;
+    top: 349px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+}
+#Destacados {
+    position: absolute;
+    width: 406px;
+    height: 47px;
+    left: 309px;
+    top: 586px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #3C2313;
+}

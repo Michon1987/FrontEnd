@@ -1,0 +1,12 @@
+.primero {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+
+}
+
+.segundo {
+    position: relative;
+    right: 30px;
+    top: 20px;
+}
